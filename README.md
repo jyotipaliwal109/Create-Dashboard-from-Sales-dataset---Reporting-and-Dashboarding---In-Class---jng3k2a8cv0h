@@ -1,5 +1,4 @@
 **Objective:**<br>
-
 The objective of the Data Science Salary Insights and Excel Dashboard is to provide a comprehensive and visually appealing analysis of salary trends in the field of Data Science. The project aims to gather, process, and present relevant salary data to help professionals.
 
 ![Capture](https://github.com/jyotipaliwal109/Create-Dashboard-from-Sales-dataset---Reporting-and-Dashboarding---In-Class---jng3k2a8cv0h/assets/85400541/4ed80ac0-f59e-4632-9dce-106e37309c72)
@@ -11,13 +10,11 @@ The objective of the Data Science Salary Insights and Excel Dashboard is to prov
 📈 Average Salary vs. Experience Level: The line chart paints a clear picture – from $6,000 for entry-level to $220,000 for experts, showcasing the earning potential in Data Science.<be>
 
 **Achievements:**<br>
-
 Analyzed marketing campaign dataset for relevant salary insights.
 Created visualizations to showcase company size distribution, job title vs. average salary, and employee counts based on experience.
 Addressed subjective questions on company size prevalence, high-paying roles, hiring trends, and the correlation between salary and experience.
 
 **Technologies:**<br>
-
 Excel (data processing, analysis, visualization)
 Applied advanced Excel functions and leveraged various chart types.
 
